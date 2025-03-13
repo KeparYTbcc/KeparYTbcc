@@ -14,6 +14,7 @@ My one "famous" repository that people seem to find useful
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### 📜 GitHub History
 This account started as my learning playground when I was younger. While I might occasionally post repositories, most of my coding happens offline for personal use. I believe code doesn't always need to be public to be valuable!
