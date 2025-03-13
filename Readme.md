@@ -35,4 +35,3 @@ Feel free to reach out for:
 ```python
 while True:
     code(random_ideas())
-```
